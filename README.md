@@ -1,8 +1,8 @@
-# Comprehensive Introduction to Descriptive and Inferential Statistics
+# Introduction to Descriptive and Inferential Statistics with Python
 
 ![Statistics](https://img.shields.io/badge/Statistics-Educational-brightgreen)
 
-Welcome to the "Comprehensive Introduction to Descriptive and Inferential Statistics" project! This repository contains a Jupyter Notebook that serves as a comprehensive guide for beginners to understand and apply fundamental concepts of statistics.
+Welcome to the "Introduction to Descriptive and Inferential Statistics" project! This repository contains a Jupyter Notebook that serves as a quick guide for beginners to understand and apply fundamental concepts of statistics.
 
 ## Project Overview
 
