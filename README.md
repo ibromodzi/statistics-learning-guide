@@ -25,7 +25,8 @@ This project is designed to provide learners with a solid foundation in both des
 
 ## Dataset
 
-The project uses the Treatment Episode Data Set - Admissions (TEDS-A) as its primary dataset. TEDS-A captures admissions data for substance use treatment facilities in the United States and its jurisdictions. You'll explore various aspects of this dataset to learn statistical concepts.
+The project uses the Treatment Episode Data Set - Admissions (TEDS-A) as its primary dataset. TEDS-A captures admissions data for substance use treatment facilities in the United States and its jurisdictions. You'll explore various aspects of this dataset to learn statistical concepts. You can access the TEDS-A dataset used in this project from the following link:
+[Download TEDS-A Dataset](https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/TEDS-A-2013/TEDS-A-2013-datasets/TEDS-A-2013-DS0001/TEDS-A-2013-DS0001-bundles-with-study-info/TEDS-A-2013-DS0001-bndl-data-csv_v2.zip)
 
 ## Notebook Structure
 
